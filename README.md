@@ -1,2 +1,1 @@
-# UrbanVibe
-"Welcome to Urban Vibe, where style meets convenience! Our student-built e-commerce hub showcases the latest in urban fashion, from streetwear to chic accessories. Browse our diverse range of products, handpicked to resonate with the vibrant energy of city life. Join our community of trendsetters and elevate your urban vibe today!"
+"Welcome aboard Journey Junction, your compass in the digital wilderness of travel! Navigate seamlessly with live weather updates, currency alchemy, and Google Maps sorcery. Unravel linguistic mysteries with our dictionary wizardry and charm locals with our tourist-friendly language spells. Embrace the adventure – let's rewrite the journey together!"
