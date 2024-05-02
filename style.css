@@ -168,8 +168,10 @@
     text-align: justify;
   }
   .hero-img img {
-    display: block;
-    width: 100%;
+    display:block;
+    width: 700px;
+    height:600px;
+    float: right;
   }
   .btn-container {
     display: flex;
