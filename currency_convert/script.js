@@ -1,5 +1,3 @@
-const dotenv = require('dotenv');
-dotenv.config();
 const dropList = document.querySelectorAll("form select"),
 fromCurrency = document.querySelector(".from select"),
 toCurrency = document.querySelector(".to select"),
@@ -54,8 +52,6 @@ function getExchangeRate(){
         amount.value = "1";
         amountVal = 1;
     }
-    const api_key=process.env.API_KEY;
-
     exchangeRateTxt.innerText = "Getting exchange rate...";
     let url = `https://v6.exchangerate-api.com/v6/${api_key}/latest/${fromCurrency.value}`;
     fetch(url).then(response => response.json()).then(result =>{
